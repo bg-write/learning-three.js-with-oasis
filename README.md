@@ -2,7 +2,9 @@
 
 ![Oasis](./textures/oasis.jpg)
 
-To see the basics of Three.js in action, run "Live Server" on index.html.
+To see Three.js in real-time: https://learning-threejs-with-oasis.netlify.app/
+
+To activate Three.js on your local machine, run "Live Server" on `index.html`.
 
 Three.js: https://threejs.org/
 
